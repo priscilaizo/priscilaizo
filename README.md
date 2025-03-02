@@ -1,10 +1,10 @@
 ## Priscila Izo
 
-Combinando desenvolvimento front-end e a experiência em design gráfico, crio interfaces modernas e funcionais, garantindo uma boa experiência para o usuário. Busco sempre inovar estudando e aprimorando minhas técnicas para entregar a melhor solução.
+Combinando desenvolvimento front-end e a experiência em design gráfico, crio interfaces modernas e funcionais, garantindo uma boa interação para o usuário. Busco sempre inovar estudando e aprimorando minhas técnicas para entregar a melhor solução.
 
 <br/>
 
-### 🤖 Linguagens e Ferramentas
+### Linguagens e Ferramentas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
