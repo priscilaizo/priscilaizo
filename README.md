@@ -1,6 +1,6 @@
 ## Priscila Izo
 
-**`Desenvolvedora Front-End`**
+Combinando desenvolvimento front-end e a experiência em design gráfico, crio interfaces modernas e funcionais, garantindo uma boa experiência para o usuário. Busco sempre inovar estudando e aprimorando minhas técnicas para entregar a melhor solução.
 
 <br/>
 
