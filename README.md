@@ -1,30 +1,10 @@
-## 
+## Priscila Izo
 
-<h1 align="left">Olá! Bem-vindo(a)!</h1>
+**`Desenvolvedora Front-End`**
 
-###
+<br/>
 
-<p align="left">Meu nome é Priscila!</p>
-
-###
-
-<h2 align="left">Sobre</h2>
-
-###
-
-<p align="left">🌱 Aprendendo: Javascript e React <br>🎯 Objetivo: Trabalhar com Front-End<br>✨ Experiência: Tenho quase 10 anos como Designer Gráfica</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaizo&theme=tokyonight&show_icons=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaizo&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
+### 🤖 Linguagens e Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -34,7 +14,25 @@
   <img width="12" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height=38em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />      
+          
           
 </div>
 
-###
+### Estatísticas
+<p>
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=priscilaizo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaizo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+</p>
